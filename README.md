@@ -10,13 +10,13 @@ Description:
 
 Table of Contents:
 
-1)train.csv
+1) train.csv
 
-2)test.csv
+2) test.csv
 
-3)MNIST.py
+3) MNIST.py
 
-4)ReadME
+4) ReadME
 
 Dependencies:
 
