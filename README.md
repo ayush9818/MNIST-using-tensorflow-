@@ -1,12 +1,12 @@
 # MNIST-using-simple-nn-tensorFlow-
 
-MNIST dataset consists of 42000 images.
+Description:
 
-Dataset has been splitted in to 80:20 ratio train and cross validation set.
+  MNIST dataset consists of 42000 images.
 
-Each image is of 28x28 pixels.
+  Dataset has been splitted in to 80:20 ratio train and cross validation set.
 
-##############################################################################
+  Each image is of 28x28 pixels.
 
 Table of Contents:
 
@@ -17,3 +17,15 @@ Table of Contents:
 3)MNIST.py
 
 4)ReadME
+
+Dependencies:
+
+1) Tensorflow
+
+2) sklearn
+
+3) numpy 
+
+4) pandas
+
+5) matplotlib
